@@ -1,0 +1,3 @@
+Eye-Fi Droid – a server application running on Android OS and allows you to upload photos from Eye-Fi SD card to Android Phone (G1, HTC Magic and etc) without the Eye-Fi Manager. To send the information you need T-Mobile G1 (or any other phone, netbook, device with the Android OS) and the Eye-Fi SD card was connected to a WiFi access point. So you should not forget to specify Upload Key, which can be taken from  your Eye-Fi account, just enter eye.fi login/password and get list of your Eye-Fi cards.
+
+Temporarily closed!
